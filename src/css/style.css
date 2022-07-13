@@ -1,0 +1,168 @@
+html {font-size: 10px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+section {margin: 10rem 0;}
+.main {
+    background-size: cover;
+
+    padding: 3rem 0 5rem;
+    background: #fff url(../img/sloy_15_256.png) center center no-repeat;
+}
+.main-content {
+    margin-top: 11rem;
+}
+.logo {
+    display: inline-block;
+    background-color: #eeedec;
+}
+.button {
+    background-color: #ffb504;
+    
+    color: #fff;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    padding: 1rem 3rem;
+    text-transform: uppercase;
+    border: none;
+}
+.header {
+    height: 7rem;
+}
+.link-fax {
+    display: inline-block;
+    font-size: 2rem;
+    color: black;
+    font-weight: 700;
+    height: 7rem;
+    line-height: 7rem;
+}
+.wrap {
+    display: table;
+    width: 100%;
+    height: 7rem;
+}
+.wrap-blok {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+}
+h1 {
+    margin-bottom: 4rem;
+    font-weight: 700;
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+p {
+    margin-bottom: 4rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+} 
+span {
+    background-color: #70c849;
+    display: inline-block;
+    padding: 3rem 5rem;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+}
+strong {
+    font-size: 3rem;
+    font-weight: 600;
+}
+.triger {
+    margin-top: 4rem;
+    display: block;
+    font-size: 2.2rem;
+    font-weight: 700;
+   
+}
+.main-form {
+    padding: 4rem;
+    background-color: #fff;
+   
+}
+.form-header {
+    margin-bottom: 4.5rem;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.2;
+} 
+.strong {
+    font-size: 1.8rem;
+}
+label {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    background-color: #fff;
+  
+    padding: 0.5rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 1.3rem;
+    line-height: 1.2;
+    font-weight: 400;
+    
+}
+.form-btn {
+    padding: 2rem;
+    margin-top: 3rem;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+small {
+    display: block;
+    margin-top: 2rem;
+   
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+}
+.main-form-input {
+    margin-bottom: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
